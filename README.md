@@ -13,9 +13,9 @@ R> library(tigerstats)
 ```
 # installing zplot
 ```{r}
-R> install_github ("OlamideMercy/zplot")
+R> install_github ("OlamideMercy/zplot2")
 ```
 # After installation, load the zplot
 ```{r}
-R> library (zplot)
+R> library (zplot2)
 ```
